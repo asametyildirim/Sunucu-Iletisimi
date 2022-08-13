@@ -1,0 +1,15 @@
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\SunucuIletisimi.exe.config
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\SunucuIletisimi.exe
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\SunucuIletisimi.pdb
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.csproj.AssemblyReference.cache
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.Form1.resources
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.Properties.Resources.resources
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.csproj.GenerateResource.cache
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.csproj.CoreCompileInputs.cache
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.csproj.CopyComplete
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.exe
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\obj\Debug\SunucuIletisimi.pdb
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\Nancy.dll
+C:\Users\ASametYildirim\source\repos\SunucuIletisimi\SunucuIletisimi\bin\Debug\Nancy.xml
